@@ -114,7 +114,7 @@ This is the **final analytical dataset** used in BI dashboards and reports.
 
 ---
 
-## 📌 Notes & Best Practices
+## Notes & Best Practices
 
 - Ensure all SKUs in `f_actual_depletions` are passed through `d_replace_skus` before contract matching.
 - Maintain a changelog for `d_replace_skus` for transparency.
