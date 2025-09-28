@@ -1,12 +1,12 @@
 
-# 📘 PRT LS E2E Master Data Pipeline Guidebook
+# PRT LS E2E Master Data Pipeline Guidebook
 
-## 📍Purpose
+## Purpose
 This guide outlines the structured steps and naming conventions for building a **clean and unified LS E2E master dataset**, used to analyze actual depletion volume by grouped outlets and matched to contract/target SKUs.  
 
 ---
 
-## 🧱 Table Naming Conventions  
+## Table Naming Conventions  
 
 | Prefix | Meaning              | Example                  |
 |--------|----------------------|--------------------------|
@@ -19,7 +19,7 @@ This guide outlines the structured steps and naming conventions for building a *
 
 ---
 
-## 🔄 Data Pipeline Steps
+## Data Pipeline Steps
 
 ### 🔹 Step 1: `d_grouped_outlets`
 **Description:**  
@@ -102,7 +102,7 @@ This is the **final analytical dataset** used in BI dashboards and reports.
 
 ---
 
-## 📅 Refresh Schedule
+## Refresh Schedule
 
 | Table                     | Frequency  |
 |---------------------------|------------|
